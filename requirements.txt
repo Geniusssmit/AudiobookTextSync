@@ -8,9 +8,3 @@ natsort==8.2.0
 requests==2.23.0
 # subs2cia==0.4.2
 git+https://github.com/kanjieater/subs2cia@2391f40#egg=subs2cia
-
-fuzzywuzzy
-pysbd
-python-Levenshtein
-natsort
-requests
